@@ -1,0 +1,12 @@
+Package: LIS4370
+Type: Package
+Title: Summary Statistics
+Version: 0.1.0
+Author: Destyni Lalla <destyniclalla@gmail.com>
+Maintainer: Destyni Lalla <destyniclalla@gmail.com>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
