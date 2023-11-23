@@ -12,7 +12,7 @@ stats <- function (x) {
   hist(x, col = rainbow(30))
 
   # Create a boxplot of the data with pink color
-  boxplot(x, col = 'pink')
+  boxplot(x, col = 'yellow')
 
   # Reset the plotting area to default configuration
   par(mfrow = c(1,1))
